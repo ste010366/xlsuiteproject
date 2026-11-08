@@ -43,3 +43,4 @@ nav .btn.demo{color:#1a1100}
 .demobox h2{margin:.2em 0 .4em}.demobox p{margin:0;color:var(--mut)}.demobox p.kicker{margin:0;color:var(--amber)}
 .demobox>div{flex:1 1 380px}
 .demolink{color:var(--amber);font-weight:600;font-size:.95rem;margin-top:4px}
+.soon{display:inline-block;vertical-align:middle;margin-left:6px;padding:2px 9px;border-radius:999px;border:1px solid var(--amber);color:var(--amber);font-size:.72rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase}
